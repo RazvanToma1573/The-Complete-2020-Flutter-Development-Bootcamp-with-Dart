@@ -1,6 +1,6 @@
 # The-Complete-2020-Flutter-Development-Bootcamp-with-Dart
 
-[Course Link](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+All the projects are developed follwoing [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 1. [MiCard](mi_card_flutter)
 2. [Dicee](dicee-flutter)
